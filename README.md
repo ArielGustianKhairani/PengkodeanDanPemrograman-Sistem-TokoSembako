@@ -53,22 +53,28 @@ Password : 123
 
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/1792865f-3048-4002-a037-bed9cc6022ee)
 
-19.	Halaman Form Transaksi Aktif
+>Halaman Form Transaksi Aktif
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/920f348e-f9a6-484e-a657-18748917d509)
 
-21.	Halaman Transaksi Baru
+>Halaman Transaksi Baru
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/0990f08b-fac9-4427-bc54-00515aec57d6)
 
-23.	Halaman Laporan
+>Halaman Laporan
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/8cc88fc4-95be-41f9-b969-6b6ee6f0bda7)
 
-25.	Halaman Data User
+>Halaman Data User
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/267da156-e090-4519-8526-39f6ba33dbb2)
 
-27.	Halaman Profile
+>Halaman Profile
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/3e54565f-0d52-48bb-a206-531a0f81903d)
 
-29.	Halaman Pengaturan
+>Halaman Pengaturan
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/d4f3c26a-a0c7-450e-b155-34c167273684)
 
 # BENTUK ERD
