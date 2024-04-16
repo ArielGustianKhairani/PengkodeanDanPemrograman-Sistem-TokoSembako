@@ -17,31 +17,40 @@ Password : 123
 
 # PROGRAM YANG TELAH DIMODIFIKASI
 
-1.	Halaman Log In Sistem Informasi Toko Sembako
+>Halaman Log In Sistem Informasi Toko Sembako
+   
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/3588ddc6-95cf-472c-80e4-d6db057f9c0b)
 
-3.	Halaman Utama Sistem Informasi Toko Sembako
+>Halaman Utama Sistem Informasi Toko Sembako
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/ed7c58c9-ab84-4252-a967-2cb34ac3921d)
 
-5.	Halaman Form Kategori
+>Halaman Form Kategori
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/9cab9908-56ef-4b98-a580-8e8d911a20a2)
 
-7.	Halaman Form Produk
+>Halaman Form Produk
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/9258cafc-80dc-4ab7-98af-11b163eade51)
 
-9.	Halaman Form Member
+>Halaman Form Member
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/8de4e5b7-2d1d-47fc-b7b2-7126b7373390)
 
-11.	Halaman Form Supplier
+>Halaman Form Supplier
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/c136e35e-62d7-4ab2-8262-e832683ae1da)
 
-13.	Halaman Form Pengeluaran
+>Halaman Form Pengeluaran
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/7215b4cf-c7a6-4f9f-a483-2c5ddf284476)
 
-15.	Halaman Pembelian
+>Halaman Pembelian
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/33bbeaa4-73e5-46f9-afb8-fe3cea9149b4)
 
-17.	Halaman Form Penjualan
+>Halaman Form Penjualan
+
 ![image](https://github.com/ArielGustianKhairani/PengkodeanDanPemrograman-Sistem-TokoSembako/assets/167192109/1792865f-3048-4002-a037-bed9cc6022ee)
 
 19.	Halaman Form Transaksi Aktif
